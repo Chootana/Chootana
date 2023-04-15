@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Chootana/Chootana/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
